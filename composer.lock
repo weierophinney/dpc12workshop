@@ -1,0 +1,42 @@
+{
+    "hash": "2c2e6345c1a555b071fd45ab4eda985b",
+    "packages": [
+        {
+            "package": "phly/phly-contact",
+            "version": "dev-master",
+            "source-reference": "c253916b96d7616a473cdaf556860393071dc0c2"
+        },
+        {
+            "package": "zendframework/zendframework",
+            "version": "dev-master",
+            "source-reference": "86d18c1b39b79afa78232819bbaead9aafbf9010",
+            "alias-pretty-version": "2.0.x-dev",
+            "alias-version": "2.0.9999999.9999999-dev"
+        },
+        {
+            "package": "zendframework/zendframework",
+            "version": "dev-master",
+            "source-reference": "86d18c1b39b79afa78232819bbaead9aafbf9010"
+        },
+        {
+            "package": "zf-commons/zfc-base",
+            "version": "dev-master",
+            "source-reference": "89ffa4edf11499a46c0c00073c1e8433a92504d8"
+        },
+        {
+            "package": "zf-commons/zfc-user",
+            "version": "dev-master",
+            "source-reference": "424ccca17de287a722cb9a6dd5c2c95139cf50c2"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "zendframework/zendframework": 20,
+        "zf-commons/zfc-user": 20,
+        "phly/phly-contact": 20
+    }
+}

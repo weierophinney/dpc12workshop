@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "dev-master",
+        "zf-commons/zfc-user": "dev-master",
+        "phly/phly-contact": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Application": "module/Application/src"
+        }
+    }
+}
