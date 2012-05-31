@@ -27,6 +27,12 @@ and use composer to install dependencies:
     cd dpc12workshop
     php composer.phar install
 
+Permissions
+-----------
+Because this tutorial uses sqlite, make sure that the data directory is
+read/write for your the user your web server runs under, as is the
+application.db file underneath it.
+
 Virtual Host
 ------------
 Afterwards, set up a virtual host to point to the public/ directory of the
