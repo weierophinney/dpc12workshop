@@ -2,6 +2,7 @@
 return array(
     'modules' => array(
         'Application',
+        'PhlyContact',
         'ZfcBase',
         'ZfcUser',
     ),

@@ -33,6 +33,14 @@ Because this tutorial uses sqlite, make sure that the data directory is
 read/write for your the user your web server runs under, as is the
 application.db file underneath it.
 
+Additionally, the mail functionality for the contact form initially uses a
+"File" transport. For this to work, ensure that the data/mail/contact folder
+has read/write permissions for the user your web server runs under.
+
+One way to accomplish this (though insecure) is:
+
+    chmod -R a+rwX data
+
 Virtual Host
 ------------
 Afterwards, set up a virtual host to point to the public/ directory of the
