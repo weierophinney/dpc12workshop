@@ -27,6 +27,27 @@ and use composer to install dependencies:
     cd dpc12workshop
     php composer.phar install
 
+Grabbing PhlyPeep
+-----------------
+The module we will develop is called "PhlyPeep", and is a twitter clone. You can
+import it as either a composer repository or as a git submodule.
+
+To import it as a composer repository, edit the `composer.json` and add the
+following entry to the "require" key:
+
+    "phly/phly-peep": "dev-master"
+
+Once done, execute the following:
+
+    php composer.phar update
+
+To import it as a git submodule, simply do the following:
+
+    git submodule init
+    git submodule update
+
+(PhlyPeep is already present as a git submodule at this time.)
+
 Permissions
 -----------
 Because this tutorial uses sqlite, make sure that the data directory is
