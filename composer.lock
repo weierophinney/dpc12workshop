@@ -1,32 +1,35 @@
 {
-    "hash": "2c2e6345c1a555b071fd45ab4eda985b",
+    "hash": "d50b28515087005c00b6c9cd26b2a3d1",
     "packages": [
         {
             "package": "phly/phly-contact",
             "version": "dev-master",
-            "source-reference": "c253916b96d7616a473cdaf556860393071dc0c2"
+            "source-reference": "2177374763f0e0f903ae68d207984087b1a0fb51",
+            "commit-date": "1343826444"
         },
         {
             "package": "zendframework/zendframework",
             "version": "dev-master",
-            "source-reference": "86d18c1b39b79afa78232819bbaead9aafbf9010",
             "alias-pretty-version": "2.0.x-dev",
             "alias-version": "2.0.9999999.9999999-dev"
         },
         {
             "package": "zendframework/zendframework",
             "version": "dev-master",
-            "source-reference": "86d18c1b39b79afa78232819bbaead9aafbf9010"
+            "source-reference": "de807ffc3dd1a5ca0495e300724ace1e6d15ffae",
+            "commit-date": "1346194885"
         },
         {
             "package": "zf-commons/zfc-base",
             "version": "dev-master",
-            "source-reference": "89ffa4edf11499a46c0c00073c1e8433a92504d8"
+            "source-reference": "864c7c45cefb77321845563eba2a7f83f284132f",
+            "commit-date": "1344908144"
         },
         {
             "package": "zf-commons/zfc-user",
             "version": "dev-master",
-            "source-reference": "424ccca17de287a722cb9a6dd5c2c95139cf50c2"
+            "source-reference": "86a654ba47fb3e89c9438cfa64cbdc3e8f8d025b",
+            "commit-date": "1345835927"
         }
     ],
     "packages-dev": null,
