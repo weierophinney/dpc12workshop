@@ -1,17 +1,23 @@
 {
-    "hash": "d50b28515087005c00b6c9cd26b2a3d1",
+    "hash": "956defd997db7a6fb81d0943d787a4c8",
     "packages": [
+        {
+            "package": "doctrine/common",
+            "version": "dev-master",
+            "alias-pretty-version": "2.4.x-dev",
+            "alias-version": "2.4.9999999.9999999-dev"
+        },
+        {
+            "package": "doctrine/common",
+            "version": "dev-master",
+            "source-reference": "329d90ab8d6ed4c0b422d631caa5594c77c12055",
+            "commit-date": "1345128430"
+        },
         {
             "package": "phly/phly-contact",
             "version": "dev-master",
             "source-reference": "2177374763f0e0f903ae68d207984087b1a0fb51",
             "commit-date": "1343826444"
-        },
-        {
-            "package": "zendframework/zendframework",
-            "version": "dev-master",
-            "alias-pretty-version": "2.0.x-dev",
-            "alias-version": "2.0.9999999.9999999-dev"
         },
         {
             "package": "zendframework/zendframework",

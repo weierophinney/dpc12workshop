@@ -1,6 +1,7 @@
 !.gitignore
 .composer
 composer
+doctrine
 zendframework
 autoload.php
 phly
